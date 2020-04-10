@@ -3,9 +3,9 @@ layout: archive
 permalink: /other_projects/
 title: "Other Projects by Tags"
 author_profile: true
-header:
-  image: "images/scenic.jpg"
-  caption: "Photo credit: Luke Bushman"
+#header:
+#  image: "images/scenic.jpg"
+#  caption: "Photo credit: Luke Bushman"
 
 ---
 
