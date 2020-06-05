@@ -1,13 +1,11 @@
 # main links links
 main:
+
   - title: "about"
     url: /about/
-
+    
   - title: "data science"
     url: /data_science/
 
   - title: "other projects"
     url: /other_projects/
-
-  - title: "external link"
-    url: https://google.com
