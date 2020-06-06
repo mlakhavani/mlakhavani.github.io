@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Data Science Posts by Tags"
 permalink: /datascience/
 header:
