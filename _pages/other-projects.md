@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /other_projects/
+permalink: /other-projects/
 title: "Other Projects by Tags"
 author_profile: true
 #header:
