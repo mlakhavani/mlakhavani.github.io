@@ -5,7 +5,7 @@ main:
     url: /about/
 
   - title: "data science"
-    url: /datascience/
+    url: /data-science/
 
   - title: "other projects"
     url: /other-projects/

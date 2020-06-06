@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Data Science Posts by Tags"
-permalink: /datascience/
+permalink: /data-science/
 header:
   image: "images/scenic.jpg"
 ---
