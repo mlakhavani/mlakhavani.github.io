@@ -6,4 +6,4 @@ header:
   image: "images/watercolor.jpg"
 ---
 
-Populate your about me here, Meera....
+Other projects linked in Github.
