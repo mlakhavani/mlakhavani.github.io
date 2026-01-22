@@ -6,4 +6,4 @@ header:
   image: "images/watercolor.jpg"
 ---
 
-Other projects linked in Github.
+Other projects linked in [Github]([https://www.example.com](https://github.com/mlakhavani)).
