@@ -1,5 +1,5 @@
 ---
-title:  "Python Test"
+title:  "Matplotlib Heatmap"
 date:   2020-06-05
 tags: [product management, software development, blogging]
 
@@ -7,26 +7,8 @@ header:
   image: "images/scenic.jpg"
   caption: "Image credit: Luke Bushman"
 
-excerpt: "Ok... hiss"
+excerpt: "Geospatial data analysis"
 ---
-
-Here I am explaining why I did this project, the business context and what I hope to gain... [random link](www.google.com) for more information.
-
-Still explaining random things about the analysis and what is about to GO DOWN.
-
-
-# First section Aye
-
-Testing the first section. Blah blah explaining the post yeah yeah...
-
-# Ok go off..
-
-Yeahhhh heres my sick post **sick**. Here is the accuracy of my model and the data issues I encountered along the way
-
-
-# Key takeaways
-
-Includea  bunch of context about what you did and why, plus the takeaways, learnings.
 
 
 ```python
