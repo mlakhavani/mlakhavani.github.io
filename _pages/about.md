@@ -6,3 +6,4 @@ header:
 ---
 
 Data scientist, tinkerer.
+[Visit my new site](https://meeralakhavani.com)
