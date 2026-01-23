@@ -5,5 +5,5 @@ header:
   image: "images/watercolor.jpg"
 ---
 
-Data scientist, tinkerer.
+AI Engineer, tinkerer.
 [Visit my new site](https://meeralakhavani.com)
