@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Meera Lakhavani"
   avatar           : "images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Data Scientist at 84.51"
-  location         : "Chicago, IL"
+  bio              : "AI Solutions Engineer at Google"
+  location         : "Boston, MA"
   email            :
   links:
     - label: "Email"
